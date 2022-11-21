@@ -2,17 +2,17 @@
 
 This repository contains notebook demonstrating how to use analyse single-cell ATAC sequencing data.
 
-We will use RAPIDS pepeline to demonstrate on how to use analyse single-cell ATAC sequencing data. RAPIDS is a suite of open-source Python libraries that can speed up data science workflows.Starting from a single-cell count matrix, RAPIDS libraries can be used to perform data processing, dimensionality reduction, clustering, visualization, and comparison of cell clusters.
+We will use RAPIDS pipeline to demonstrate on how to use analyse single-cell ATAC sequencing data. RAPIDS is a suite of open-source Python libraries that can speed up data science workflows. Starting from a single-cell count matrix, RAPIDS libraries can be used to perform data processing, dimensionality reduction, clustering, visualization, and comparison of cell clusters.
 
 Dataset sizes for single-cell genomics studies are increasing, presently reaching millions of cells. With RAPIDS pipeline, it becomes easy to analyze large datasets interactively and in real time, enabling faster scientific discoveries.
 
 ## This analysis involves using Jupyter Notebook along with Terminal.
-Please give attention to notes before the begining of the each step to understand where the code should be executed.
+Please give attention to notes before the begining of the each step to understand the place where the code should be executed.
 
 ## Installation
 
-Download the Jupyter Notebook (Jupyter notebook Raw-Copy1.ipynb) file from the github repository https://github.com/gudalab/scATACseq/find/main and upload this file in your Google Cloud Workbench.
-Open the file and begin following the instructions.
+Download the Jupyter Notebook (Jupyter notebook Raw-Copy1.ipynb) file along with the rest of the files from the github repository https://github.com/gudalab/scATACseq/find/main and upload these files in to your Google Cloud Workbench.
+Open the Jupyter Notebook (.ipynb) file and begin following the instructions.
 
 ### conda
 All dependencies for these examples can be installed with conda.
