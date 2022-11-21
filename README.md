@@ -47,7 +47,7 @@ wget -P <path to this repository>/data https://rapids-single-cell-examples.s3.us
 
 ### Example Code
 
-Follow this [Jupyter notebook](notebooks/dsci_bmmc_60k_gpu.ipynb) for RAPIDS analysis of this dataset. In order for the notebook to run, the files [rapids_scanpy_funcs.py](notebooks/rapids_scanpy_funcs.py) and [utils.py](notebooks/utils.py) need to be in the same folder as the notebook.
+Follow this [Jupyter notebook](https://github.com/gudalab/scATACseq/blob/main/Jupyter%20notebook%20Raw.ipynb) for RAPIDS analysis of this dataset. In order for the notebook to run, the files [rapids_scanpy_funcs.py](notebooks/rapids_scanpy_funcs.py) and [utils.py](notebooks/utils.py) need to be in the same folder as the notebook.
 
 We provide a second notebook with the CPU version of this analysis [here](notebooks/dsci_bmmc_60k_cpu.ipynb).
 
