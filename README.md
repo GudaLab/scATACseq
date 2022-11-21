@@ -11,7 +11,7 @@ Please give attention to notes before the begining of the each step to understan
 
 ## Installation
 
-Download the Jupyter Notebook (Jupyter notebook Raw.ipynb) file from the github repository https://github.com/gudalab/scATACseq/find/main and upload this file in your Google Cloud Workbench.
+Download the Jupyter Notebook (Jupyter notebook Raw-Copy1.ipynb) file from the github repository https://github.com/gudalab/scATACseq/find/main and upload this file in your Google Cloud Workbench.
 Open the file and begin following the instructions.
 
 ### conda
@@ -47,7 +47,7 @@ wget -P <path to this repository>/data https://rapids-single-cell-examples.s3.us
 
 ### Example Code
 
-Follow this [Jupyter notebook](https://github.com/GudaLab/scATACseq/blob/main/Jupyter%20notebook%20Raw-Copy1.ipyn) for RAPIDS analysis of this dataset. In order for the notebook to run, the files [rapids_scanpy_funcs.py](notebooks/rapids_scanpy_funcs.py) and [utils.py](notebooks/utils.py) need to be in the same folder as the notebook.
+Follow this [Jupyter notebook](https://github.com/GudaLab/scATACseq/blob/main/Jupyter%20notebook%20Raw-Copy1.ipynb) for RAPIDS analysis of this dataset. In order for the notebook to run, the files [rapids_scanpy_funcs.py](notebooks/rapids_scanpy_funcs.py) and [utils.py](notebooks/utils.py) need to be in the same folder as the notebook.
 
 We provide a second notebook with the CPU version of this analysis [here](notebooks/dsci_bmmc_60k_cpu.ipynb).
 
